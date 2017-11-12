@@ -7,7 +7,7 @@ void setup() {
   
 
 }
-float val;
+int val;
 void loop() {
   val= analogRead(A0);
   Serial.println(val);
