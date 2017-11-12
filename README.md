@@ -9,7 +9,7 @@ GitHub id: Rudra-Banerjee Email: rudra.banerjee98@gmail.com
 Ayan Pal
 GitHub id: ayanpal Email: ayan.pal2013@gmail.com
 Shuvam Sadhu
-GitHub id: Shuvam-codelocker127  Email: shuvam.internet@gmail.com
+GitHub id: Shuvam-codelocked127  Email: shuvam.internet@gmail.com
 Anumoy Ganguly
 GitHub id: Anumoy99  Email: anumoy99@gmail.com
 Pallabi Mondal
