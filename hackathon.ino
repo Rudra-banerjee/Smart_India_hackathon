@@ -74,6 +74,6 @@ motorOn(int wll)
   }
   }
   digitalWrite(1,LOW);
-  delay(1000000000);
+  delay(600000);
 }
 
