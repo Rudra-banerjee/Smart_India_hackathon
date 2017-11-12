@@ -16,4 +16,4 @@ Pallabi Mondal
 GitHub id: Pallabi68 Email: pallabimondal68@gmail.com
 Subham Ray
 GitHub id: SubhamUltimate Email:subham10499@gmail.com
-arduino based project
+Arduino based project
